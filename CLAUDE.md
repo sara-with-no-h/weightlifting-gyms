@@ -9,8 +9,8 @@ scripts/
   parse-list-response.py  ← main script: parse raw API responses → CSV/JSON
 2026-04-13/               ← example: one folder per export date
   response1-4.json        ← raw API responses captured from Chrome DevTools
-  gyms.csv                ← parsed output (63 places)
-  gyms.json               ← parsed output (63 places)
+  gyms.csv                ← parsed output (137 places)
+  gyms.json               ← parsed output (137 places)
 ```
 
 ## Workflows
