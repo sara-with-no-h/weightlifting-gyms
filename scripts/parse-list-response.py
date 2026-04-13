@@ -60,6 +60,7 @@ def extract_place(item: list) -> dict:
 
     return {
         "name":           safe_get(d, 11),
+        "note":           safe_get(d, 25, 15, 0, 2),
         "address":        safe_get(d, 18),
         "street":         safe_get(d, 2, 0),
         "city_state_zip": safe_get(d, 2, 1),
@@ -98,7 +99,7 @@ def parse_response(path: Path) -> list[dict]:
 
 
 FIELDNAMES = [
-    "name", "address", "street", "city_state_zip", "country",
+    "name", "note", "address", "street", "city_state_zip", "country",
     "latitude", "longitude", "rating", "review_count",
     "website", "phone", "place_id", "categories", "timezone",
 ]

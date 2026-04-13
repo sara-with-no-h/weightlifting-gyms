@@ -1,6 +1,7 @@
 [
   {
     "name": "CrossFit Santa Barbara",
+    "note": null,
     "address": "CrossFit Santa Barbara, 264 Orange Ave, Goleta, CA 93117, United States",
     "street": "264 Orange Ave",
     "city_state_zip": "Goleta, CA 93117",
@@ -17,6 +18,7 @@
   },
   {
     "name": "CrossFit Golden Gate",
+    "note": null,
     "address": "CrossFit Golden Gate, 1946 Van Ness Ave, San Francisco, CA 94109, United States",
     "street": "1946 Van Ness Ave",
     "city_state_zip": "San Francisco, CA 94109",
@@ -33,6 +35,7 @@
   },
   {
     "name": "CrossFit Parque das Nações",
+    "note": "Fantastic for a training session during a quick layover. Easier to get an uber if you walk outside of the airport for 10 min.",
     "address": "CrossFit Parque das Nações, Estrada da Circunvalação, R. Salgueiro Maia 22B, 2685-311, Portugal",
     "street": "Estrada da Circunvalação",
     "city_state_zip": "R. Salgueiro Maia 22B",
@@ -49,6 +52,7 @@
   },
   {
     "name": "CrossFit am See",
+    "note": "They have two halls, you can go whenever you want and have the entire second hall to yourself. Pics are not updated, there's platforms and decent equipment. Access with airbnb lock, nice people and responsive.",
     "address": "CrossFit am See, Anton-Sommer-Straße 7, 88046 Friedrichshafen, Germany",
     "street": "Anton-Sommer-Straße 7",
     "city_state_zip": "88046 Friedrichshafen",
@@ -65,6 +69,7 @@
   },
   {
     "name": "CrossFit Riga",
+    "note": null,
     "address": "CrossFit Riga, Ūdens iela 16, Kurzemes rajons, Rīga, LV-1007, Latvia",
     "street": "Ūdens iela 16",
     "city_state_zip": "Kurzemes rajons, Rīga, LV-1007",
@@ -81,6 +86,7 @@
   },
   {
     "name": "CrossFit Dungeon - Gym Cairns",
+    "note": "Gym is part of Queensland Weightlifting. Very friendly, couldn't do enough for us.",
     "address": "CrossFit Dungeon - Gym Cairns, 2/261-273 McCormack St, Manunda QLD 4870, Australia",
     "street": "2/261-273 McCormack St",
     "city_state_zip": "Manunda QLD 4870",
@@ -97,6 +103,7 @@
   },
   {
     "name": "Gain Forth Barbell Club",
+    "note": null,
     "address": "Unit 38, Gain Forth Barbell Club, Belfast BT13 2AU",
     "street": "Unit 38",
     "city_state_zip": "Belfast",
@@ -113,6 +120,7 @@
   },
   {
     "name": "CrossFit FNC",
+    "note": "Most days the platform is used as storage space but you can move everything away. Even have some ELEIKO plates. Spin the barbells, not all are great.",
     "address": "CrossFit FNC, Estr. Luso Brasileira 47B, 9050-284 Funchal, Portugal",
     "street": "Estr. Luso Brasileira 47B",
     "city_state_zip": "9050-284 Funchal",
@@ -129,6 +137,7 @@
   },
   {
     "name": "MIGHTY GYM H24 Giardini Naxos",
+    "note": "Just a guy’s garage gym basically but there is a platform and good weightlifting equipment including female bar and he will let you train any hour of the day or night and put your own music on the computer. I think he’s extended it since I went. Also showers and snacks.",
     "address": "MIGHTY GYM H24 Giardini Naxos, Via Bruderi, 98039 Chianchitta ME, Italy",
     "street": "Via Bruderi",
     "city_state_zip": "98039 Chianchitta ME",
@@ -145,6 +154,7 @@
   },
   {
     "name": "Sirocco Athletics Marrakech",
+    "note": "There’s a dog there called Snatch",
     "address": "Sirocco Athletics Marrakech, شارع الدارالبيضاء، Marrakech, Morocco",
     "street": "شارع الدارالبيضاء",
     "city_state_zip": "Marrakech",
@@ -161,6 +171,7 @@
   },
   {
     "name": "CrossFit Rhein-Neckar",
+    "note": "Something has gone wrong in your travel plans if you’re in Mannheim",
     "address": "CrossFit Rhein-Neckar, Industriestraße 39, 68169 Mannheim, Germany",
     "street": "Industriestraße 39",
     "city_state_zip": "68169 Mannheim",
@@ -177,6 +188,7 @@
   },
   {
     "name": "PFP",
+    "note": "Not the largest of gyms, three lifting platforms and plenty of equipment",
     "address": "PFP, Oaktree Place, Manaton Cl, Exeter EX2 8WA",
     "street": "Oaktree Place",
     "city_state_zip": "Manaton Cl",
@@ -193,6 +205,7 @@
   },
   {
     "name": "RAGTAG Training",
+    "note": "Friend of a friend trained there",
     "address": "141 Cecil St, #01-01 RAGTAG Training, Tung Ann Association Building, Singapore 069541",
     "street": "141 Cecil St",
     "city_state_zip": "#01-01",
@@ -209,6 +222,7 @@
   },
   {
     "name": "Training Room",
+    "note": null,
     "address": "Training Room, 45 Triq it-Targa, Naxxar NXR 6613, Malta",
     "street": "45 Triq it-Targa",
     "city_state_zip": "Naxxar NXR 6613",
@@ -225,6 +239,7 @@
   },
   {
     "name": "Crossfit Arch | Fitness Studio, Hyrox Studio & CrossFit Wien, 1190",
+    "note": "Fucking huge place with loads of weightlifting space. Weightlifting class also available (coached by Klaus Steger)",
     "address": "Crossfit Arch | Fitness Studio, Hyrox Studio & CrossFit Wien, 1190, Heiligenstädter Str. 31, 1190 Wien, Austria",
     "street": "Heiligenstädter Str. 31",
     "city_state_zip": "1190 Wien",
@@ -241,6 +256,7 @@
   },
   {
     "name": "Berlin Strength",
+    "note": null,
     "address": "Berlin Strength, Revaler Str. 99/Halle 8.1, 10245 Berlin, Germany",
     "street": "Revaler Str. 99/Halle 8.1",
     "city_state_zip": "10245 Berlin",
@@ -257,6 +273,7 @@
   },
   {
     "name": "Bambu Fitness Bali",
+    "note": null,
     "address": "Bambu Fitness Bali, Jl. Pantai Bingin No.8, Bingin, South Kuta, Bali 80361, Indonesia",
     "street": "Jl. Pantai Bingin No.8",
     "city_state_zip": "Bingin",
@@ -273,6 +290,7 @@
   },
   {
     "name": "Fit On Lanta",
+    "note": "Rusty but better than nothing",
     "address": "Fit On Lanta, 1037 Moo.2 Ban, Sala Dan, Ko Lanta District, Krabi 81150, Thailand",
     "street": "1037 Moo.2 Ban",
     "city_state_zip": "Sala Dan, Ko Lanta District",
@@ -289,6 +307,7 @@
   },
   {
     "name": "CrossFit Chiang Mai / CFCNX",
+    "note": "Really nice facilities including sauna, ice bath, showers",
     "address": "CrossFit Chiang Mai / CFCNX, 47 Chotana Rd, Mueang Chiang Mai District, Chiang Mai 50300, Thailand",
     "street": "47 Chotana Rd",
     "city_state_zip": "Mueang Chiang Mai District",
@@ -305,6 +324,7 @@
   },
   {
     "name": "Raw Iron CrossFit",
+    "note": "Just a CrossFit gym but really big",
     "address": "Raw Iron CrossFit, 38 Commercial Dr, Ashmore QLD 4214, Australia",
     "street": "38 Commercial Dr",
     "city_state_zip": "Ashmore QLD 4214",
@@ -321,6 +341,7 @@
   },
   {
     "name": "Manapany",
+    "note": null,
     "address": "Manapany, ZA des gregues, 7A Rue Jean Cocteau, Saint Joseph 97480, Réunion",
     "street": "ZA des gregues",
     "city_state_zip": "7A Rue Jean Cocteau",
@@ -337,6 +358,7 @@
   },
   {
     "name": "CrossFit La Fournaise",
+    "note": null,
     "address": "CrossFit La Fournaise, 14 rue leonel Francoise, L'Étang-Salé 97427, Réunion",
     "street": "14 rue leonel Francoise",
     "city_state_zip": "L'Étang-Salé 97427",
@@ -353,6 +375,7 @@
   },
   {
     "name": "Mahavéli Fit SUD, St-Pierre",
+    "note": null,
     "address": "Mahavéli Fit SUD, St-Pierre, 258 Rue Marius et Ary Leblond, Saint-Pierre 97410, Réunion",
     "street": "258 Rue Marius et Ary Leblond",
     "city_state_zip": "Saint-Pierre 97410",
@@ -369,6 +392,7 @@
   },
   {
     "name": "Dundee Strength Unit",
+    "note": null,
     "address": "6, Dundee Strength Unit, Douglas Court, W Henderson's Wynd, Dundee DD1 5BY",
     "street": "6",
     "city_state_zip": "Douglas Court",
@@ -385,6 +409,7 @@
   },
   {
     "name": "Fortitude | Personal Training and Group fitness Gym, Lydney, Forest of Dean",
+    "note": null,
     "address": "Unit 1-2, Fortitude | Personal Training and Group fitness Gym, Lydney, Forest of Dean, Old Farmer Stores, Church Rd, Lydney GL15 5EB",
     "street": "Unit 1-2",
     "city_state_zip": "Old Farmer Stores",
@@ -401,6 +426,7 @@
   },
   {
     "name": "Sport e Salute - Scuola dello Sport",
+    "note": null,
     "address": "Sport e Salute - Scuola dello Sport, Largo Giulio Onesti, 1, 00197 Roma RM, Italy",
     "street": "Largo Giulio Onesti, 1",
     "city_state_zip": "00197 Roma RM",
@@ -417,6 +443,7 @@
   },
   {
     "name": "Altrincham weightlifting club",
+    "note": null,
     "address": "Altrincham weightlifting club, Unit 1, Blue Chip Business Centre, Atlantic St, Altrincham WA14 4DD",
     "street": "Unit 1, Blue Chip Business Centre",
     "city_state_zip": "Atlantic St",
@@ -433,6 +460,7 @@
   },
   {
     "name": "Clermont Sports Haltérophilie",
+    "note": null,
     "address": "Clermont Sports Haltérophilie, 70 Rue de la Combe, 34800 Clermont-l'Hérault, France",
     "street": "70 Rue de la Combe",
     "city_state_zip": "34800 Clermont-l'Hérault",
@@ -449,6 +477,7 @@
   },
   {
     "name": "OWA Weightlifting",
+    "note": null,
     "address": "OWA Weightlifting 99B Gillies Avenue, Epsom, Auckland 1023, New Zealand",
     "street": "99B Gillies Avenue",
     "city_state_zip": "Epsom",
@@ -465,6 +494,7 @@
   },
   {
     "name": "Kääriku Spordikeskus",
+    "note": null,
     "address": "Kääriku Spordikeskus, Kääriku, 67309 Valga maakond, Estonia",
     "street": "Kääriku",
     "city_state_zip": "67309 Valga maakond",
@@ -481,6 +511,7 @@
   },
   {
     "name": "Vondelgym Zuid",
+    "note": null,
     "address": "Vondelgym Zuid, Eduard van Beinumstraat 110, 1077 CZ Amsterdam, Netherlands",
     "street": "Eduard van Beinumstraat 110",
     "city_state_zip": "1077 CZ Amsterdam",
@@ -497,6 +528,7 @@
   },
   {
     "name": "Warriors Functional Fitness Center",
+    "note": null,
     "address": "Warriors Functional Fitness Center, Yasemin Sk, Lefkoşa 2360, Cyprus",
     "street": "Yasemin Sk",
     "city_state_zip": "Lefkoşa 2360",
@@ -513,6 +545,7 @@
   },
   {
     "name": "POWERCAMP Bordeaux",
+    "note": null,
     "address": "POWERCAMP Bordeaux, 16 Rue Georges Barres, 33300 Bordeaux, France",
     "street": "16 Rue Georges Barres",
     "city_state_zip": "33300 Bordeaux",
@@ -529,6 +562,7 @@
   },
   {
     "name": "Australian Institute of Sport",
+    "note": null,
     "address": "Australian Institute of Sport, Leverrier St, Bruce ACT 2617, Australia",
     "street": "Leverrier St",
     "city_state_zip": "Bruce ACT 2617",
@@ -545,6 +579,7 @@
   },
   {
     "name": "Salle de sport Tarbes-fitness-club",
+    "note": null,
     "address": "Salle de sport Tarbes-fitness-club, 36 Rue Joseph Nelli, 65000 Tarbes, France",
     "street": "36 Rue Joseph Nelli",
     "city_state_zip": "65000 Tarbes",
@@ -561,6 +596,7 @@
   },
   {
     "name": "Tonic Club Agen",
+    "note": null,
     "address": "Tonic Club Agen, 1371 Av. du Général Leclerc, 47000 Agen, France",
     "street": "1371 Av. du Général Leclerc",
     "city_state_zip": "47000 Agen",
@@ -577,6 +613,7 @@
   },
   {
     "name": "Sporting Club de Neuilly",
+    "note": null,
     "address": "Sporting Club de Neuilly, Île du Pont, 92200 Neuilly-sur-Seine, France",
     "street": "Île du Pont",
     "city_state_zip": "92200 Neuilly-sur-Seine",
@@ -593,6 +630,7 @@
   },
   {
     "name": "Rueil AC Weightlifting Muscle Toning",
+    "note": null,
     "address": "Rueil AC Weightlifting Muscle Toning, 34 Rue des Bons Raisins, 92500 Rueil-Malmaison, France",
     "street": "34 Rue des Bons Raisins",
     "city_state_zip": "92500 Rueil-Malmaison",
@@ -609,6 +647,7 @@
   },
   {
     "name": "Club Haltérophilie Musculation Weightlifting Club de Cachan.",
+    "note": null,
     "address": "Club Haltérophilie Musculation Weightlifting Club de Cachan., 25 Av. de l'Europe, 94230 Cachan, France",
     "street": "25 Av. de l'Europe",
     "city_state_zip": "94230 Cachan",
@@ -625,6 +664,7 @@
   },
   {
     "name": "Barbell Union",
+    "note": null,
     "address": "Barbell Union, 98 Av. Léon Blum, 38100 Grenoble, France",
     "street": "98 Av. Léon Blum",
     "city_state_zip": "38100 Grenoble",
@@ -641,6 +681,7 @@
   },
   {
     "name": "CrossFit Menestys",
+    "note": null,
     "address": "CrossFit Menestys, Rue Clément Ader, 49000 Angers, France",
     "street": "Rue Clément Ader",
     "city_state_zip": "49000 Angers",
@@ -657,6 +698,7 @@
   },
   {
     "name": "Haltero Monteux",
+    "note": null,
     "address": "Haltero Monteux, 86 Av. Edouard Grangier, 84170 Monteux, France",
     "street": "86 Av. Edouard Grangier",
     "city_state_zip": "84170 Monteux",
@@ -673,6 +715,7 @@
   },
   {
     "name": "AS Monaco - Club d’Haltérophilie",
+    "note": null,
     "address": "AS Monaco - Club d’Haltérophilie, 7 Av. des Castelans, 98000, Monaco",
     "street": "7 Av. des Castelans",
     "city_state_zip": "98000",
@@ -689,6 +732,7 @@
   },
   {
     "name": "Club Haltérophile Luxovien",
+    "note": null,
     "address": "Club Haltérophile Luxovien, Palais des Sports, 4 Bd Richet, 70300 Luxeuil-les-Bains, France",
     "street": "Palais des Sports",
     "city_state_zip": "4 Bd Richet",
@@ -705,6 +749,7 @@
   },
   {
     "name": "HALTEROPHILIE CLUB AVALLONNAIS",
+    "note": null,
     "address": "HALTEROPHILIE CLUB AVALLONNAIS, Av. Victor Hugo, 89200 Avallon, France",
     "street": "Av. Victor Hugo",
     "city_state_zip": "89200 Avallon",
@@ -721,6 +766,7 @@
   },
   {
     "name": "Cercle Michelet Orléans",
+    "note": null,
     "address": "Cercle Michelet Orléans, 73 Bd Marie Stuart, 45000 Orléans, France",
     "street": "73 Bd Marie Stuart",
     "city_state_zip": "45000 Orléans",
@@ -737,6 +783,7 @@
   },
   {
     "name": "Club Haltérophilie Musculation Vauzelles",
+    "note": null,
     "address": "Club Haltérophilie Musculation Vauzelles, 36 Rue Marcel Turpin, 58640 Varennes-Vauzelles, France",
     "street": "36 Rue Marcel Turpin",
     "city_state_zip": "58640 Varennes-Vauzelles",
@@ -753,6 +800,7 @@
   },
   {
     "name": "The Box by Expression Athlétique",
+    "note": null,
     "address": "The Box by Expression Athlétique, 36 Rue de Nexon, 87000 Limoges, France",
     "street": "36 Rue de Nexon",
     "city_state_zip": "87000 Limoges",
@@ -769,6 +817,7 @@
   },
   {
     "name": "Istres Sport Haltérophilie Musculation Fitness",
+    "note": null,
     "address": "Istres Sport Haltérophilie Musculation Fitness, Chem. de la Combe aux Fées, 13800 Istres, France",
     "street": "Chem. de la Combe aux Fées",
     "city_state_zip": "13800 Istres",
@@ -785,6 +834,7 @@
   },
   {
     "name": "The Arena Gym",
+    "note": null,
     "address": "The Arena Gym, Godfrey Pl, Tralee, Co. Kerry, V92 Y240, Ireland",
     "street": "Godfrey Pl",
     "city_state_zip": "Tralee",
@@ -801,6 +851,7 @@
   },
   {
     "name": "Freedom Weightlifting",
+    "note": null,
     "address": "Freedom Weightlifting, 1109 Old Okeechobee Rd, West Palm Beach, FL 33401, United States",
     "street": "1109 Old Okeechobee Rd",
     "city_state_zip": "West Palm Beach, FL 33401",
@@ -817,6 +868,7 @@
   },
   {
     "name": "Vero Beach Weightlifting",
+    "note": null,
     "address": "Vero Beach Weightlifting, 490 Old Dixie Hwy SW Unit 104, Vero Beach, FL 32962, United States",
     "street": "490 Old Dixie Hwy SW Unit 104",
     "city_state_zip": "Vero Beach, FL 32962",
@@ -833,6 +885,7 @@
   },
   {
     "name": "Team Soul Miami",
+    "note": null,
     "address": "Team Soul Miami, 7360 SW 24th St APT 31, Miami, FL 33155, United States",
     "street": "7360 SW 24th St APT 31",
     "city_state_zip": "Miami, FL 33155",
@@ -849,6 +902,7 @@
   },
   {
     "name": "Weightlifting Academy of Tasmania",
+    "note": null,
     "address": "Weightlifting Academy of Tasmania, 110 Mornington Rd, Mornington TAS 7018, Australia",
     "street": "110 Mornington Rd",
     "city_state_zip": "Mornington TAS 7018",
@@ -865,6 +919,7 @@
   },
   {
     "name": "South Australian Sports Institute",
+    "note": null,
     "address": "South Australian Sports Institute, 145B Railway Terrace, Mile End SA 5031, Australia",
     "street": "145B Railway Terrace",
     "city_state_zip": "Mile End SA 5031",
@@ -881,6 +936,7 @@
   },
   {
     "name": "Winners 2000 Fitness - Torquay",
+    "note": null,
     "address": "Winners 2000 Fitness - Torquay, 168-174 Teignmouth Rd, Torquay TQ1 4RY",
     "street": "168-174 Teignmouth Rd",
     "city_state_zip": "Torquay",
@@ -897,6 +953,7 @@
   },
   {
     "name": "UnScared",
+    "note": null,
     "address": "UnScared, 2e Daalsedijk 4b, 3551 EJ Utrecht, Netherlands",
     "street": "2e Daalsedijk 4b",
     "city_state_zip": "3551 EJ Utrecht",
@@ -913,6 +970,7 @@
   },
   {
     "name": "Hackney Weightlifting Club",
+    "note": null,
     "address": "Hackney Weightlifting Club, Meeting Field Path, London E9 6RT",
     "street": "Meeting Field Path",
     "city_state_zip": "London",
@@ -929,6 +987,7 @@
   },
   {
     "name": "Fitness Renaissance",
+    "note": null,
     "address": "Fitness Renaissance, Crystal Palace National Sports Centre, Ledrington Rd SE19 2BB",
     "street": "Crystal Palace National Sports Centre",
     "city_state_zip": "Ledrington Rd",
@@ -945,6 +1004,7 @@
   },
   {
     "name": "Bounce gym and Injury Clinic",
+    "note": null,
     "address": "Bounce gym and Injury Clinic, 30 High St, New Malden KT3 4HE",
     "street": "30 High St",
     "city_state_zip": "New Malden",
@@ -961,6 +1021,7 @@
   },
   {
     "name": "Ealing Weightlifting Club - Stars For The Future",
+    "note": null,
     "address": "Ealing Weightlifting Club - Stars For The Future, Stockdove Way, Perivale, Greenford UB6 8TJ",
     "street": "Stockdove Way",
     "city_state_zip": "Perivale",
@@ -977,6 +1038,7 @@
   },
   {
     "name": "CrossFit Verulamium",
+    "note": null,
     "address": "CrossFit Verulamium, Burston Nurseries, N Orbital Rd, Chiswell Green, St Albans AL2 2DS",
     "street": "Burston Nurseries",
     "city_state_zip": "N Orbital Rd",
@@ -993,6 +1055,7 @@
   },
   {
     "name": "CrossFit 3216 - Hamilton",
+    "note": null,
     "address": "CrossFit 3216 - Hamilton 23 Claudelands Road, Hamilton East, Hamilton 3216, New Zealand",
     "street": "23 Claudelands Road",
     "city_state_zip": "Hamilton East",
@@ -1009,6 +1072,7 @@
   },
   {
     "name": "Woking Weightlifting Club",
+    "note": null,
     "address": "Woking Weightlifting Club, Leisure Centre, Kingfield Rd, Woking GU22 9BA",
     "street": "Leisure Centre",
     "city_state_zip": "Kingfield Rd",
@@ -1025,6 +1089,7 @@
   },
   {
     "name": "Wolfhouse Gym",
+    "note": null,
     "address": "Wolfhouse Gym, North Rd, Fort William PH33 6SU",
     "street": "North Rd",
     "city_state_zip": "Fort William",
@@ -1041,6 +1106,7 @@
   },
   {
     "name": "Qmotion Sport and Fitness Centre",
+    "note": null,
     "address": "Qmotion Sport and Fitness Centre, 15 Bancroft Rd, London E1 4FZ",
     "street": "15 Bancroft Rd",
     "city_state_zip": "London",
@@ -1057,6 +1123,7 @@
   },
   {
     "name": "Manchester Strength & Conditioning",
+    "note": null,
     "address": "Unit O4, Manchester Strength & Conditioning, Pearl Mill, Industrial Estate, Stockport Rd W, Lower Bredbury, Stockport SK6 2BP",
     "street": "Unit O4, Pearl Mill, Industrial Estate",
     "city_state_zip": "Stockport Rd W",
@@ -1073,6 +1140,7 @@
   },
   {
     "name": "Rocky Top CrossFit",
+    "note": null,
     "address": "Rocky Top CrossFit, 1412 N 6th Ave, Knoxville, TN 37917, United States",
     "street": "1412 N 6th Ave",
     "city_state_zip": "Knoxville, TN 37917",
@@ -1089,6 +1157,7 @@
   },
   {
     "name": "Breakthrough Fitness Australia",
+    "note": null,
     "address": "Breakthrough Fitness Australia, 200 Railway Terrace, Merrylands NSW 2161, Australia",
     "street": "200 Railway Terrace",
     "city_state_zip": "Merrylands NSW 2161",
@@ -1105,6 +1174,7 @@
   },
   {
     "name": "Uplift Lifting Club",
+    "note": null,
     "address": "Uplift Lifting Club, Kerrs Rd, Lidcombe NSW 2141, Australia",
     "street": "Kerrs Rd",
     "city_state_zip": "Lidcombe NSW 2141",
@@ -1121,6 +1191,7 @@
   },
   {
     "name": "Herakles",
+    "note": null,
     "address": "Herakles, Ratsastie 10, 00280 Helsinki, Finland",
     "street": "Ratsastie 10",
     "city_state_zip": "00280 Helsinki",
@@ -1137,6 +1208,7 @@
   },
   {
     "name": "Pittsburgh Barbell Club",
+    "note": null,
     "address": "Pittsburgh Barbell Club, 331 Station St, Bridgeville, PA 15017, United States",
     "street": "331 Station St",
     "city_state_zip": "Bridgeville, PA 15017",
@@ -1153,6 +1225,7 @@
   },
   {
     "name": "CrossFit 717",
+    "note": null,
     "address": "CrossFit 717, 836 Market St, Lemoyne, PA 17043, United States",
     "street": "836 Market St",
     "city_state_zip": "Lemoyne, PA 17043",
@@ -1169,6 +1242,7 @@
   },
   {
     "name": "PWRBLD Gym KOP",
+    "note": null,
     "address": "PWRBLD Gym KOP, 167 Town Center Rd, King of Prussia, PA 19406, United States",
     "street": "167 Town Center Rd",
     "city_state_zip": "King of Prussia, PA 19406",
@@ -1185,6 +1259,7 @@
   },
   {
     "name": "gymnase des Deux Canons Paul Jouglas",
+    "note": null,
     "address": "gymnase des Deux Canons Paul Jouglas, 3 Rue du Gymnase, Saint-Denis 97400, Réunion",
     "street": "3 Rue du Gymnase",
     "city_state_zip": "Saint-Denis 97400",
@@ -1201,6 +1276,7 @@
   },
   {
     "name": "Atlanta Barbell",
+    "note": null,
     "address": "Atlanta Barbell, 185 Sams St B, Decatur, GA 30030, United States",
     "street": "185 Sams St B",
     "city_state_zip": "Decatur, GA 30030",
@@ -1217,6 +1293,7 @@
   },
   {
     "name": "Glasgow City Barbell Club",
+    "note": null,
     "address": "Glasgow City Barbell Club, 588 Glasgow Rd, Clydebank G81 1NH",
     "street": "588 Glasgow Rd",
     "city_state_zip": "Clydebank",
@@ -1233,6 +1310,7 @@
   },
   {
     "name": "Guildford Weightlifting",
+    "note": null,
     "address": "Unit 2, Guildford Weightlifting, Weightlifting, Pew Corner, Old Portsmouth Rd, Guildford GU3 1LP",
     "street": "Unit 2, Weightlifting",
     "city_state_zip": "Pew Corner",
@@ -1249,6 +1327,7 @@
   },
   {
     "name": "Complete Performance",
+    "note": null,
     "address": "Complete Performance, 3 Whitney Rd, Basingstoke RG24 8NS",
     "street": "3 Whitney Rd",
     "city_state_zip": "Basingstoke",
@@ -1265,6 +1344,7 @@
   },
   {
     "name": "Société Athlétique Montmartroise",
+    "note": null,
     "address": "Société Athlétique Montmartroise, Centre sportif Bertrand Dauvin, 12 Rue René Binet, 75018 Paris, France",
     "street": "Centre sportif Bertrand Dauvin",
     "city_state_zip": "12 Rue René Binet",
@@ -1281,6 +1361,7 @@
   },
   {
     "name": "Team Cavanagh Weightlifting",
+    "note": null,
     "address": "Team Cavanagh Weightlifting, 719a South St, Glasgow G14 0QQ",
     "street": "719a South St",
     "city_state_zip": "Glasgow",
@@ -1297,6 +1378,7 @@
   },
   {
     "name": "Easm Entente Athletique",
+    "note": null,
     "address": "Easm Entente Athletique, Complexe Robert Monceau, 12 Av. Paul Berniard, 33160 Saint-Médard-en-Jalles, France",
     "street": "Complexe Robert Monceau",
     "city_state_zip": "12 Av. Paul Berniard",
@@ -1313,6 +1395,7 @@
   },
   {
     "name": "CrossFit Murrayfield",
+    "note": null,
     "address": "CrossFit Murrayfield, 16 Sauchiebank, Edinburgh EH11 2NN",
     "street": "16 Sauchiebank",
     "city_state_zip": "Edinburgh",
@@ -1329,6 +1412,7 @@
   },
   {
     "name": "AFHMA Haltérophilie-Musculation",
+    "note": null,
     "address": "AFHMA Haltérophilie-Musculation, Bd Rhin et Danube, 95130 Franconville, France",
     "street": "Bd Rhin et Danube",
     "city_state_zip": "95130 Franconville",
@@ -1345,6 +1429,7 @@
   },
   {
     "name": "Orkney Amateur Weight Lifting Club",
+    "note": null,
     "address": "Orkney Amateur Weight Lifting Club, Cairston Rd, Stromness KW16 3JS",
     "street": "Cairston Rd",
     "city_state_zip": "Stromness",
@@ -1361,6 +1446,7 @@
   },
   {
     "name": "SoCal Weightlifting",
+    "note": null,
     "address": "SoCal Weightlifting, 3595 Cadillac Ave #103, Costa Mesa, CA 92626, United States",
     "street": "3595 Cadillac Ave #103",
     "city_state_zip": "Costa Mesa, CA 92626",
@@ -1377,6 +1463,7 @@
   },
   {
     "name": "Inverness Leisure",
+    "note": null,
     "address": "Inverness Leisure, Bught Ln, Inverness IV3 5SS",
     "street": "Bught Ln",
     "city_state_zip": "Inverness",
@@ -1393,6 +1480,7 @@
   },
   {
     "name": "Kolmar",
+    "note": null,
     "address": "Kolmar Sutton Crescent, Papatoetoe, Auckland 1062, New Zealand",
     "street": "Sutton Crescent",
     "city_state_zip": "Papatoetoe",
@@ -1409,6 +1497,7 @@
   },
   {
     "name": "Tōnuitanga. Prosperous Fitness",
+    "note": null,
     "address": "Tōnuitanga. Prosperous Fitness 12 Ihakara Street, Paraparaumu 5032, New Zealand",
     "street": "12 Ihakara Street",
     "city_state_zip": "Paraparaumu 5032",
@@ -1425,6 +1514,7 @@
   },
   {
     "name": "Brooklyn Training Hall",
+    "note": null,
     "address": "Brooklyn Training Hall, 321 Scholes St, Brooklyn, NY 11206, United States",
     "street": "321 Scholes St",
     "city_state_zip": "Brooklyn, NY 11206",
@@ -1441,6 +1531,7 @@
   },
   {
     "name": "JDI Barbell Harlem",
+    "note": null,
     "address": "JDI Barbell Harlem, 1767 Park Ave, New York, NY 10035, United States",
     "street": "1767 Park Ave",
     "city_state_zip": "New York, NY 10035",
@@ -1457,6 +1548,7 @@
   },
   {
     "name": "Strength Academy Wales",
+    "note": null,
     "address": "Strength Academy Wales, Pembrokeshire Sports Village, Haverfordwest SA61 2NX",
     "street": "Pembrokeshire Sports Village",
     "city_state_zip": "Haverfordwest",
@@ -1473,6 +1565,7 @@
   },
   {
     "name": "SSC Weightlifting",
+    "note": null,
     "address": "SSC Weightlifting, Osborne Rd, Pontypool NP4 6LX",
     "street": "Osborne Rd",
     "city_state_zip": "Pontypool",
@@ -1489,6 +1582,7 @@
   },
   {
     "name": "Sunshine Coast Weightlifting Club",
+    "note": null,
     "address": "Sunshine Coast Weightlifting Club, 20 Crusher Park Dr, Nambour QLD 4560, Australia",
     "street": "20 Crusher Park Dr",
     "city_state_zip": "Nambour QLD 4560",
@@ -1505,6 +1599,7 @@
   },
   {
     "name": "Complexul Sportiv National Poiana Brasov",
+    "note": null,
     "address": "Complexul Sportiv National Poiana Brasov, Unnamed Road, 500001 Brașov, Romania",
     "street": "Unnamed Road",
     "city_state_zip": "500001 Brașov",
@@ -1521,6 +1616,7 @@
   },
   {
     "name": "BlueWave Fitness & Weightlifting Club",
+    "note": null,
     "address": "BlueWave Fitness & Weightlifting Club, 7523 Chapel Ave, Fort Worth, TX 76116, United States",
     "street": "7523 Chapel Ave",
     "city_state_zip": "Fort Worth, TX 76116",
@@ -1537,6 +1633,7 @@
   },
   {
     "name": "East London Weightlifting",
+    "note": null,
     "address": "East London Weightlifting, 325 Acton Mews, London E8 4EF",
     "street": "325 Acton Mews",
     "city_state_zip": "London",
@@ -1553,6 +1650,7 @@
   },
   {
     "name": "Ironwood Barbell",
+    "note": null,
     "address": "Ironwood Barbell, 262 Prospect Rd, Prospect SA 5082, Australia",
     "street": "262 Prospect Rd",
     "city_state_zip": "Prospect SA 5082",
@@ -1569,6 +1667,7 @@
   },
   {
     "name": "Orwell Fitness",
+    "note": null,
     "address": "Unit 1, Orwell Fitness, Barn, 7 Peppers Lane, Ipswich IP9 2AB",
     "street": "Unit 1",
     "city_state_zip": "Barn",
@@ -1585,6 +1684,7 @@
   },
   {
     "name": "Powerhouse Barbell Club",
+    "note": null,
     "address": "LG/F, Powerhouse Barbell Club, Silver Fortune Plaza, 1 Wellington St, Central, Hong Kong",
     "street": "LG/F",
     "city_state_zip": "Silver Fortune Plaza",
@@ -1601,6 +1701,7 @@
   },
   {
     "name": "Tidal Weightlifting",
+    "note": null,
     "address": "Tidal Weightlifting, 7 Glenealy, Central, Hong Kong",
     "street": "7 Glenealy",
     "city_state_zip": "Central",
@@ -1617,6 +1718,7 @@
   },
   {
     "name": "Milton Weightlifting Club",
+    "note": null,
     "address": "Milton Weightlifting Club, 40 Mayne Rd, Bowen Hills QLD 4006, Australia",
     "street": "40 Mayne Rd",
     "city_state_zip": "Bowen Hills QLD 4006",
@@ -1633,6 +1735,7 @@
   },
   {
     "name": "UAC force athletique Haltérophilie Musculation Culturisme",
+    "note": null,
     "address": "UAC force athletique Haltérophilie Musculation Culturisme, 3 Rue Jean Monnet, 16100 Châteaubernard, France",
     "street": "3 Rue Jean Monnet",
     "city_state_zip": "16100 Châteaubernard",
@@ -1649,6 +1752,7 @@
   },
   {
     "name": "Savoie Barbell Team",
+    "note": null,
     "address": "Savoie Barbell Team, 660 Rue de Roberty, 73000 Chambéry, France",
     "street": "660 Rue de Roberty",
     "city_state_zip": "73000 Chambéry",
@@ -1665,6 +1769,7 @@
   },
   {
     "name": "MyFit",
+    "note": null,
     "address": "MyFit, 31 Imp. du Fier, 74370 Epagny Metz-Tessy, France",
     "street": "31 Imp. du Fier",
     "city_state_zip": "74370 Epagny Metz-Tessy",
@@ -1681,6 +1786,7 @@
   },
   {
     "name": "PTL CrossFit Geneva",
+    "note": null,
     "address": "PTL CrossFit Geneva, Rte de Saint-Julien 65, 1212 Genève, Switzerland",
     "street": "Rte de Saint-Julien 65",
     "city_state_zip": "1212 Genève",
@@ -1697,6 +1803,7 @@
   },
   {
     "name": "GymNation Downtown Dubai | Best Gym in Downtown Dubai",
+    "note": null,
     "address": "GymNation Downtown Dubai | Best Gym in Downtown Dubai - South Heights Tower A - Dubai - United Arab Emirates",
     "street": "South Heights Tower A",
     "city_state_zip": "Dubai",
@@ -1713,6 +1820,7 @@
   },
   {
     "name": "Health & Fitness World",
+    "note": null,
     "address": "Health & Fitness World, 69 William St, Launceston TAS 7250, Australia",
     "street": "69 William St",
     "city_state_zip": "Launceston TAS 7250",
@@ -1729,6 +1837,7 @@
   },
   {
     "name": "크라토스짐",
+    "note": null,
     "address": "South Korea, Gyeonggi-do, Goyang-si, Ilsandong-gu, Gangseok-ro, 153 KR 크라토스짐",
     "street": "South Korea, Gyeonggi-do, Goyang-si, Ilsandong-gu, Gangseok-ro, 153",
     "city_state_zip": "KR",
@@ -1745,6 +1854,7 @@
   },
   {
     "name": "Atletika Weightlifting",
+    "note": null,
     "address": "Atletika Weightlifting, 7/80 O'Riordan St, Alexandria NSW 2015, Australia",
     "street": "7/80 O'Riordan St",
     "city_state_zip": "Alexandria NSW 2015",
@@ -1761,6 +1871,7 @@
   },
   {
     "name": "Singapore Weightlifting Federation",
+    "note": null,
     "address": "3 Bedok North Street 2, Singapore Weightlifting Federation, Singapore 469643",
     "street": "3 Bedok North Street 2",
     "city_state_zip": "Singapore 469643",
@@ -1777,6 +1888,7 @@
   },
   {
     "name": "Summit Weightlifting Club",
+    "note": null,
     "address": "Summit Weightlifting Club, 57 Chaston St, Wagga Wagga NSW 2650, Australia",
     "street": "57 Chaston St",
     "city_state_zip": "Wagga Wagga NSW 2650",
@@ -1793,6 +1905,7 @@
   },
   {
     "name": "Associazione Pesistica Udinese",
+    "note": null,
     "address": "Associazione Pesistica Udinese, Via Antonio Marangoni, 46, 33100 Udine UD, Italy",
     "street": "Via Antonio Marangoni, 46",
     "city_state_zip": "33100 Udine UD",
@@ -1809,6 +1922,7 @@
   },
   {
     "name": "Psych Weightlifting Club",
+    "note": null,
     "address": "Psych Weightlifting Club, Unit 5 Leestone Rd, Sharston, Manchester M22 4RN",
     "street": "Unit 5 Leestone Rd",
     "city_state_zip": "Sharston",
@@ -1825,6 +1939,7 @@
   },
   {
     "name": "Sheffield Weightlifting Club",
+    "note": null,
     "address": "Sheffield Weightlifting Club, 48-50 Hoyland Rd, Neepsend, Sheffield S3 8AB",
     "street": "48-50 Hoyland Rd",
     "city_state_zip": "Neepsend",
@@ -1841,6 +1956,7 @@
   },
   {
     "name": "Elite Bodyworks",
+    "note": null,
     "address": "Elite Bodyworks, Unit 10 Bessemer Rd, Basingstoke RG21 3NB",
     "street": "Unit 10 Bessemer Rd",
     "city_state_zip": "Basingstoke",
@@ -1857,6 +1973,7 @@
   },
   {
     "name": "Athlete Movement",
+    "note": null,
     "address": "Athlete Movement, Passfield Mill Business Park, Mill Lane, Passfield, Liphook GU30 7QU",
     "street": "Passfield Mill Business Park",
     "city_state_zip": "Mill Lane",
@@ -1873,6 +1990,7 @@
   },
   {
     "name": "Hampshire Barbell Club",
+    "note": null,
     "address": "Hampshire Barbell Club, The Club House, Portchester Community School, White Hart Ln, Portchester, Fareham PO16 9BD",
     "street": "The Club House, Portchester Community School",
     "city_state_zip": "White Hart Ln",
@@ -1889,6 +2007,7 @@
   },
   {
     "name": "MSC Performance Strength & Conditioning Gym.",
+    "note": null,
     "address": "MSC Performance Strength & Conditioning Gym., 57 Clement St, Birmingham B1 2SW",
     "street": "57 Clement St",
     "city_state_zip": "Birmingham",
@@ -1905,6 +2024,7 @@
   },
   {
     "name": "Lincoln Lifting",
+    "note": null,
     "address": "Lincoln Lifting, 6 Crofton Cl, Lincoln LN3 4NT",
     "street": "6 Crofton Cl",
     "city_state_zip": "Lincoln",
@@ -1921,6 +2041,7 @@
   },
   {
     "name": "Red Beard Barbell Club",
+    "note": null,
     "address": "Red Beard Barbell Club, Unit 2 Moor Farm, Holyport, Maidenhead SL6 2HY",
     "street": "Unit 2 Moor Farm",
     "city_state_zip": "Holyport",
@@ -1937,6 +2058,7 @@
   },
   {
     "name": "Chichester Weightlifting Club",
+    "note": null,
     "address": "Chichester Weightlifting Club, Unit 3 Delling Ln, Chichester PO18 8NW",
     "street": "Unit 3 Delling Ln",
     "city_state_zip": "Chichester",
@@ -1953,6 +2075,7 @@
   },
   {
     "name": "mettle Weightlifting & Strength Training Club",
+    "note": null,
     "address": "mettle Weightlifting & Strength Training Club, 6-8 Stevenson Way, Sheffield S9 3WZ",
     "street": "6-8 Stevenson Way",
     "city_state_zip": "Sheffield",
@@ -1969,6 +2092,7 @@
   },
   {
     "name": "Nova Performance",
+    "note": null,
     "address": "Unit 9, Nova Performance, Enfield Court, Nuffield Rd, St. Ives PE27 3NJ",
     "street": "Unit 9",
     "city_state_zip": "Enfield Court",
@@ -1985,6 +2109,7 @@
   },
   {
     "name": "Maida Gym",
+    "note": null,
     "address": "Maida Gym, Queen's Ave, Aldershot GU11 2BT",
     "street": "Queen's Ave",
     "city_state_zip": "Aldershot",
@@ -2001,6 +2126,7 @@
   },
   {
     "name": "Diamond Conditioning",
+    "note": null,
     "address": "Diamond Conditioning, 7 James St, Llandudno LL30 2YD",
     "street": "7 James St",
     "city_state_zip": "Llandudno",
@@ -2017,6 +2143,7 @@
   },
   {
     "name": "Dartford Gym-Europa Weightlifting Club",
+    "note": null,
     "address": "Dartford Gym-Europa Weightlifting Club, Temple Hill, Dartford DA1 5HX",
     "street": "Temple Hill",
     "city_state_zip": "Dartford",
@@ -2033,6 +2160,7 @@
   },
   {
     "name": "Brunel Weightlifting Club",
+    "note": null,
     "address": "Brunel Weightlifting Club, Indoor Athletics Centre, Kingston Ln, Uxbridge UB8 3PH",
     "street": "Indoor Athletics Centre",
     "city_state_zip": "Kingston Ln",
@@ -2049,6 +2177,7 @@
   },
   {
     "name": "Bethnal Green Weight Lifting Club",
+    "note": null,
     "address": "Bethnal Green Weight Lifting Club, 229 Bethnal Grn Rd, London E2 6AB",
     "street": "229 Bethnal Grn Rd",
     "city_state_zip": "London",
@@ -2065,6 +2194,7 @@
   },
   {
     "name": "THE LIONS DEN",
+    "note": "Most convenient option in Singapore",
     "address": "36 Robinson Rd, B1-02 THE LIONS DEN, City House, Singapore 068877",
     "street": "36 Robinson Rd",
     "city_state_zip": "B1-02",
@@ -2081,6 +2211,7 @@
   },
   {
     "name": "National Training Centre (Singapore Taekwondo Federation)",
+    "note": "Very nice and welcoming, limited opening times but worth the experience",
     "address": "80 Lor Limau, National Training Centre (Singapore Taekwondo Federation), Singapore 320080",
     "street": "80 Lor Limau",
     "city_state_zip": "Singapore 320080",
@@ -2097,6 +2228,7 @@
   },
   {
     "name": "Stronger Together Cape Town",
+    "note": null,
     "address": "Stronger Together Cape Town, 35 Sussex St, Woodstock, Cape Town, 7925, South Africa",
     "street": "35 Sussex St",
     "city_state_zip": "Woodstock, Cape Town",
@@ -2113,6 +2245,7 @@
   },
   {
     "name": "Dutch Strength",
+    "note": "Ran by volunteers, always happy to help. Very responsive, offers OG",
     "address": "Dutch Strength, Hobbemakade 7, 1071 XK Amsterdam, Netherlands",
     "street": "Hobbemakade 7",
     "city_state_zip": "1071 XK Amsterdam",
@@ -2129,6 +2262,7 @@
   },
   {
     "name": "SilverGiant Fitness",
+    "note": "Holly went, said it was good",
     "address": "SilverGiant Fitness, Al hayah academy gate 10, South Police Academy Passage, Cairo Governorate 4731501, Egypt",
     "street": "Al hayah academy gate 10",
     "city_state_zip": "South Police Academy Passage",
@@ -2145,6 +2279,7 @@
   },
   {
     "name": "DASGYM.- Intelligent Strength",
+    "note": "Athletics hall is contains powerlifting, weightlifting and a functional fitness area. Additionally 2 floors of bodybuilding machines available and on-site restaurant",
     "address": "DASGYM.- Intelligent Strength, Handelskai 340, 1020 Wien, Austria",
     "street": "Handelskai 340",
     "city_state_zip": "1020 Wien",
@@ -2161,6 +2296,7 @@
   },
   {
     "name": "Kingdom Barbell",
+    "note": "Small but friendly",
     "address": "Unit 23, Kingdom Barbell, 25 Harnham Trading Estate, Salisbury SP2 8NW",
     "street": "Unit 23",
     "city_state_zip": "25 Harnham Trading Estate",
@@ -2177,6 +2313,7 @@
   },
   {
     "name": "Mem's Weightlifting Club",
+    "note": "home",
     "address": "Arch 22 & 25, Mem's Weightlifting Club, 22 Bondway, London SW8 1SQ",
     "street": "Arch 22 & 25",
     "city_state_zip": "22 Bondway",

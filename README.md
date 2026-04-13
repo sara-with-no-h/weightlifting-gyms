@@ -38,6 +38,7 @@ python3 scripts/parse-list-response.py <files> --out <folder> --stem <name>
 | Field | Description |
 |---|---|
 | `name` | Place name |
+| `note` | Your personal note on the place (if any) |
 | `address` | Full formatted address |
 | `street` | Street line only |
 | `city_state_zip` | City, state/region, postcode |
