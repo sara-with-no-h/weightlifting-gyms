@@ -1,0 +1,846 @@
+{
+  "added": [
+    {
+      "name": "CrossFit Southampton",
+      "added_by": "Sara Strong",
+      "note": null,
+      "address": "Unit 3B, CrossFit Southampton, Chicken Hall Ln, Eastleigh SO50 6RR",
+      "street": "Unit 3B",
+      "city_state_zip": "Chicken Hall Ln",
+      "country": "Eastleigh",
+      "latitude": 50.9695238,
+      "longitude": -1.3478523,
+      "rating": 4.9,
+      "review_count": 60,
+      "website": "http://crossfitsouthampton.com/",
+      "phone": "023 8218 2981",
+      "place_id": "ChIJdVlBc_xydEgRJOPR3m1QrUw",
+      "categories": "Fitness centre",
+      "timezone": "Europe/London"
+    },
+    {
+      "name": "Dobeles Sporta centrs",
+      "added_by": "Sara Strong",
+      "note": "You need to email them first",
+      "address": "Dobeles Sporta centrs, Tērvetes iela 10, Dobele, Dobele pilsēta, LV-3701, Latvia",
+      "street": "Tērvetes iela 10",
+      "city_state_zip": "Dobele, Dobele pilsēta, LV-3701",
+      "country": "Latvia",
+      "latitude": 56.6210471,
+      "longitude": 23.2703114,
+      "rating": 4.4,
+      "review_count": 461,
+      "website": "https://www.dobelesporto.lv/",
+      "phone": "+371 63 781 886",
+      "place_id": "ChIJEcDmbz0U70YRStLNr84XHnc",
+      "categories": "Sports complex",
+      "timezone": "Europe/Riga"
+    },
+    {
+      "name": "Jolly Sailor Strength & Conditioning",
+      "added_by": "Sara Strong",
+      "note": null,
+      "address": "Jolly Sailor Strength & Conditioning, Penryn TR10 9NA",
+      "street": "Penryn",
+      "city_state_zip": "TR10 9NA",
+      "country": null,
+      "latitude": 50.165262,
+      "longitude": -5.158939999999999,
+      "rating": 5,
+      "review_count": 21,
+      "website": "https://jollysailor-sandc.co.uk/",
+      "phone": "07919 183015",
+      "place_id": "ChIJYQ_UYJEja0gR74hqiOKejjA",
+      "categories": "Fitness centre",
+      "timezone": "Europe/London"
+    }
+  ],
+  "removed": [
+    {
+      "name": "Associazione Pesistica Udinese",
+      "added_by": null,
+      "note": null,
+      "address": "Associazione Pesistica Udinese, Via Antonio Marangoni, 46, 33100 Udine UD, Italy",
+      "street": "Via Antonio Marangoni, 46",
+      "city_state_zip": "33100 Udine UD",
+      "country": "Italy",
+      "latitude": 46.0594837,
+      "longitude": 13.229368,
+      "rating": 4.1,
+      "review_count": 14,
+      "website": null,
+      "phone": "+39 0432 232108",
+      "place_id": "ChIJXc297VU1ekcRfKoTFz6i8CM",
+      "categories": "Trade Union",
+      "timezone": "Europe/Rome"
+    },
+    {
+      "name": "National Training Centre (Singapore Taekwondo Federation)",
+      "added_by": null,
+      "note": "Very nice and welcoming, limited opening times but worth the experience",
+      "address": "80 Lor Limau, National Training Centre (Singapore Taekwondo Federation), Singapore 320080",
+      "street": "80 Lor Limau",
+      "city_state_zip": "Singapore 320080",
+      "country": null,
+      "latitude": 1.3238364,
+      "longitude": 103.85577599999999,
+      "rating": 3.8,
+      "review_count": 6,
+      "website": "http://www.stf.sg/facilities",
+      "phone": null,
+      "place_id": "ChIJL2daztkZ2jERD_Bxthvl0JE",
+      "categories": "Gym",
+      "timezone": "Asia/Singapore"
+    }
+  ],
+  "changed": [
+    {
+      "place": {
+        "name": "Australian Institute of Sport",
+        "added_by": "Jean-Baptiste Adams",
+        "note": "Nice facilities but more of a national training centre so would need to chat up the receptionist or something.",
+        "address": "Australian Institute of Sport, Leverrier St, Bruce ACT 2617, Australia",
+        "street": "Leverrier St",
+        "city_state_zip": "Bruce ACT 2617",
+        "country": "Australia",
+        "latitude": -35.2466186,
+        "longitude": 149.1037801,
+        "rating": 4.4,
+        "review_count": 292,
+        "website": "http://www.ausport.gov.au/",
+        "phone": "+61 2 6214 1111",
+        "place_id": "ChIJdytEFUutF2sReC65bT2yX8w",
+        "categories": "Sports school",
+        "timezone": "Australia/Sydney"
+      },
+      "user_changes": {
+        "note": {
+          "from": null,
+          "to": "Nice facilities but more of a national training centre so would need to chat up the receptionist or something."
+        }
+      },
+      "auto_changes": {}
+    },
+    {
+      "place": {
+        "name": "Bambu Fitness Bali",
+        "added_by": "Sam Mahrouche",
+        "note": null,
+        "address": "Bambu Fitness Bali, Jl. Pantai Bingin No.8, Bingin, South Kuta, Bali 80361, Indonesia",
+        "street": "Jl. Pantai Bingin No.8",
+        "city_state_zip": "Bingin",
+        "country": "South Kuta",
+        "latitude": -8.8116433,
+        "longitude": 115.114007,
+        "rating": 4.7,
+        "review_count": 1527,
+        "website": "http://www.bambufitnessbali.com/",
+        "phone": "+62 812-4499-7721",
+        "place_id": "ChIJiWAIKBRF0i0Rb3F0u26TsSY",
+        "categories": "Gym, Cafe, Restaurant",
+        "timezone": "Asia/Makassar"
+      },
+      "user_changes": {},
+      "auto_changes": {
+        "review_count": {
+          "from": 1522,
+          "to": 1527
+        }
+      }
+    },
+    {
+      "place": {
+        "name": "Complexul Sportiv National Poiana Brasov",
+        "added_by": "Jean-Baptiste Adams",
+        "note": "Mainly for training camps. But could likely get access to the gym if in the area.",
+        "address": "Complexul Sportiv National Poiana Brasov, Unnamed Road, 500001 Brașov, Romania",
+        "street": "Unnamed Road",
+        "city_state_zip": "500001 Brașov",
+        "country": "Romania",
+        "latitude": 45.5891747,
+        "longitude": 25.5486611,
+        "rating": 4.4,
+        "review_count": 96,
+        "website": "https://csnpoianabrasov.ro/",
+        "phone": null,
+        "place_id": "ChIJy_vxxYJEs0ARbxW-L0JlyFs",
+        "categories": "Amusement Centre",
+        "timezone": "Europe/Bucharest"
+      },
+      "user_changes": {
+        "note": {
+          "from": null,
+          "to": "Mainly for training camps. But could likely get access to the gym if in the area."
+        }
+      },
+      "auto_changes": {}
+    },
+    {
+      "place": {
+        "name": "CrossFit Golden Gate",
+        "added_by": "Philippa Knipe",
+        "note": null,
+        "address": "CrossFit Golden Gate, 1946 Van Ness Ave, San Francisco, CA 94109, United States",
+        "street": "1946 Van Ness Ave",
+        "city_state_zip": "San Francisco, CA 94109",
+        "country": "United States",
+        "latitude": 37.793802,
+        "longitude": -122.422607,
+        "rating": 4.9,
+        "review_count": 184,
+        "website": "http://crossfitgoldengate.com/",
+        "phone": "+1 415-609-4002",
+        "place_id": "ChIJ82O32Sl-j4AR-OR3Ac14U9g",
+        "categories": "Gym, Fitness centre, Personal trainer, Physical Fitness Programme, Sports club, Weightlifting area",
+        "timezone": "America/Los_Angeles"
+      },
+      "user_changes": {},
+      "auto_changes": {
+        "review_count": {
+          "from": 183,
+          "to": 184
+        }
+      }
+    },
+    {
+      "place": {
+        "name": "DASGYM.- Intelligent Strength",
+        "added_by": "Sara Strong",
+        "note": "Athletics hall is contains powerlifting, weightlifting and a functional fitness area. Additionally 2 floors of bodybuilding machines available and on-site restaurant",
+        "address": "DASGYM.- Intelligent Strength, Handelskai 340, 1020 Wien, Austria",
+        "street": "Handelskai 340",
+        "city_state_zip": "1020 Wien",
+        "country": "Austria",
+        "latitude": 48.2088646,
+        "longitude": 16.427656199999998,
+        "rating": 4.9,
+        "review_count": 1462,
+        "website": "http://www.intelligentstrength.net/",
+        "phone": "+43 664 2517226",
+        "place_id": "ChIJiTMtajEHbUcRJz4vb5Z5VVE",
+        "categories": "Fitness centre, Gym",
+        "timezone": "Europe/Vienna"
+      },
+      "user_changes": {},
+      "auto_changes": {
+        "review_count": {
+          "from": 1460,
+          "to": 1462
+        }
+      }
+    },
+    {
+      "place": {
+        "name": "Ealing Weightlifting Club - Stars For The Future",
+        "added_by": "Jean-Baptiste Adams",
+        "note": "In a small building by the track.",
+        "address": "Ealing Weightlifting Club - Stars For The Future, Stockdove Way, Perivale, Greenford UB6 8TJ",
+        "street": "Stockdove Way",
+        "city_state_zip": "Perivale",
+        "country": "Greenford",
+        "latitude": 51.533107,
+        "longitude": -0.3369935,
+        "rating": 5,
+        "review_count": 73,
+        "website": "http://www.starsforthefuture.com/",
+        "phone": "07958 685884",
+        "place_id": "ChIJE0INi4wSdkgRNjgb3mvAU1I",
+        "categories": "Gym",
+        "timezone": "Europe/London"
+      },
+      "user_changes": {
+        "note": {
+          "from": null,
+          "to": "In a small building by the track."
+        }
+      },
+      "auto_changes": {}
+    },
+    {
+      "place": {
+        "name": "Fitness Renaissance",
+        "added_by": "Jean-Baptiste Adams",
+        "note": "Placeholder for Crystal Palace Weightlifting club. Hard to find the gym so best is to go to the front desk for directions.",
+        "address": "Fitness Renaissance, Crystal Palace National Sports Centre, Ledrington Rd SE19 2BB",
+        "street": "Crystal Palace National Sports Centre",
+        "city_state_zip": "Ledrington Rd",
+        "country": "SE19 2BB",
+        "latitude": 51.420313099999994,
+        "longitude": -0.0678998,
+        "rating": 5,
+        "review_count": 109,
+        "website": "https://www.fit-ren.com/",
+        "phone": "07809 701428",
+        "place_id": "ChIJRVUFnHIBdkgRVP_EhktxedA",
+        "categories": "Personal trainer, Hypnotherapy service, Nutritionist, Osteopath",
+        "timezone": "Europe/London"
+      },
+      "user_changes": {
+        "note": {
+          "from": null,
+          "to": "Placeholder for Crystal Palace Weightlifting club. Hard to find the gym so best is to go to the front desk for directions."
+        }
+      },
+      "auto_changes": {}
+    },
+    {
+      "place": {
+        "name": "Fortitude | Personal Training and Group fitness Gym, Lydney, Forest of Dean",
+        "added_by": "Jean-Baptiste Adams",
+        "note": null,
+        "address": "Unit 1-2, Fortitude | Personal Training and Group fitness Gym, Lydney, Forest of Dean, Old Farmer Stores, Church Rd, Lydney GL15 5EB",
+        "street": "Unit 1-2",
+        "city_state_zip": "Old Farmer Stores",
+        "country": "Church Rd",
+        "latitude": 51.7225171,
+        "longitude": -2.5359059999999998,
+        "rating": 5,
+        "review_count": 79,
+        "website": "https://www.fortitudegym.co.uk/",
+        "phone": "07360 278781",
+        "place_id": "ChIJTac5sbm8cUgRJKm6Qdj1BWg",
+        "categories": "Gym, Personal trainer",
+        "timezone": "Europe/London"
+      },
+      "user_changes": {},
+      "auto_changes": {
+        "review_count": {
+          "from": 78,
+          "to": 79
+        }
+      }
+    },
+    {
+      "place": {
+        "name": "GymNation Downtown Dubai | Best Gym in Downtown Dubai",
+        "added_by": "Jean-Baptiste Adams",
+        "note": "Bars aren't nice but very nice facilities and platforms and bumpers.",
+        "address": "GymNation Downtown Dubai | Best Gym in Downtown Dubai - South Heights Tower A - Dubai - United Arab Emirates",
+        "street": "South Heights Tower A",
+        "city_state_zip": "Dubai",
+        "country": "United Arab Emirates",
+        "latitude": 25.213169999999998,
+        "longitude": 55.272619999999996,
+        "rating": 4.7,
+        "review_count": 4227,
+        "website": "https://gymnation.com/gymsnearme/downtown-dubai/",
+        "phone": "+971 4 444 4444",
+        "place_id": "ChIJSZXqIDBDXz4RfFIZDzwAHdU",
+        "categories": "Gym, Athletic Club, Boot camp, Boxing Gym, Fitness centre, Indoor cycling, Personal trainer, Spa and health club, Sports club, Weightlifting area",
+        "timezone": "Asia/Dubai"
+      },
+      "user_changes": {
+        "note": {
+          "from": null,
+          "to": "Bars aren't nice but very nice facilities and platforms and bumpers."
+        }
+      },
+      "auto_changes": {
+        "review_count": {
+          "from": 4221,
+          "to": 4227
+        }
+      }
+    },
+    {
+      "place": {
+        "name": "Herakles",
+        "added_by": "Jean-Baptiste Adams",
+        "note": "Old school but very nice weightlifting gym here. Friendly people.",
+        "address": "Herakles, Ratsastie 10, 00280 Helsinki, Finland",
+        "street": "Ratsastie 10",
+        "city_state_zip": "00280 Helsinki",
+        "country": "Finland",
+        "latitude": 60.198806,
+        "longitude": 24.9103198,
+        "rating": 5,
+        "review_count": 4,
+        "website": "http://herakles.fi/",
+        "phone": null,
+        "place_id": "ChIJ2-TrivMJkkYRhfxh63RYGF0",
+        "categories": "Gym",
+        "timezone": "Europe/Helsinki"
+      },
+      "user_changes": {
+        "note": {
+          "from": null,
+          "to": "Old school but very nice weightlifting gym here. Friendly people."
+        }
+      },
+      "auto_changes": {}
+    },
+    {
+      "place": {
+        "name": "Inverness Leisure",
+        "added_by": "Jean-Baptiste Adams",
+        "note": "Leisure centre but with a well equipped gym for weightlifting.",
+        "address": "Inverness Leisure, Bught Ln, Inverness IV3 5SS",
+        "street": "Bught Ln",
+        "city_state_zip": "Inverness",
+        "country": "IV3 5SS",
+        "latitude": 57.464054,
+        "longitude": -4.2393564,
+        "rating": 4.2,
+        "review_count": 1395,
+        "website": "https://www.highlifehighland.com/il/",
+        "phone": "01463 667500",
+        "place_id": "ChIJ8UKW3OFzj0gRU8umdYIrxNg",
+        "categories": "Leisure centre, Athletic track, Gym, Public swimming pool, Rock climbing, Tourist attraction",
+        "timezone": "Europe/London"
+      },
+      "user_changes": {
+        "note": {
+          "from": null,
+          "to": "Leisure centre but with a well equipped gym for weightlifting."
+        }
+      },
+      "auto_changes": {
+        "review_count": {
+          "from": 1394,
+          "to": 1395
+        }
+      }
+    },
+    {
+      "place": {
+        "name": "JDI Barbell Harlem",
+        "added_by": "Jean-Baptiste Adams",
+        "note": "Connor of Stoic Strength Systems used to work here.",
+        "address": "JDI Barbell Harlem, 1767 Park Ave, New York, NY 10035, United States",
+        "street": "1767 Park Ave",
+        "city_state_zip": "New York, NY 10035",
+        "country": "United States",
+        "latitude": 40.803241899999996,
+        "longitude": -73.9398856,
+        "rating": 4.8,
+        "review_count": 144,
+        "website": "http://www.jdibarbell.com/",
+        "phone": "+1 347-477-0089",
+        "place_id": "ChIJSTCw2tdYwokRbAmQ0DjO_YY",
+        "categories": "Gym",
+        "timezone": "America/New_York"
+      },
+      "user_changes": {
+        "note": {
+          "from": null,
+          "to": "Connor of Stoic Strength Systems used to work here."
+        }
+      },
+      "auto_changes": {}
+    },
+    {
+      "place": {
+        "name": "Kolmar",
+        "added_by": "Jean-Baptiste Adams",
+        "note": "Nice training gym but would have to find where it is and ask for access.",
+        "address": "Kolmar Sutton Crescent, Papatoetoe, Auckland 1062, New Zealand",
+        "street": "Sutton Crescent",
+        "city_state_zip": "Papatoetoe",
+        "country": "Auckland 1062",
+        "latitude": -36.9724417,
+        "longitude": 174.8616013,
+        "rating": 4.4,
+        "review_count": 242,
+        "website": "http://www.kolmar.org.nz/",
+        "phone": "+64 9 277 6710",
+        "place_id": "ChIJHx_SKdVNDW0RvhlqqTS7orQ",
+        "categories": "Sports complex",
+        "timezone": "Pacific/Auckland"
+      },
+      "user_changes": {
+        "note": {
+          "from": null,
+          "to": "Nice training gym but would have to find where it is and ask for access."
+        }
+      },
+      "auto_changes": {
+        "rating": {
+          "from": 4.3,
+          "to": 4.4
+        },
+        "review_count": {
+          "from": 241,
+          "to": 242
+        }
+      }
+    },
+    {
+      "place": {
+        "name": "Kääriku Spordikeskus",
+        "added_by": "Jean-Baptiste Adams",
+        "note": "Excellent weightlifting facilities but probably only for training camps. Maybe us one day?",
+        "address": "Kääriku Spordikeskus, Kääriku, 67309 Valga maakond, Estonia",
+        "street": "Kääriku",
+        "city_state_zip": "67309 Valga maakond",
+        "country": "Estonia",
+        "latitude": 58.003524299999995,
+        "longitude": 26.3905235,
+        "rating": 4.8,
+        "review_count": 600,
+        "website": "http://www.kaariku.ee/?y_source=1_OTA0ODQ0OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+        "phone": "+372 766 5600",
+        "place_id": "ChIJvbMBMRoO60YRUywb-V-AYU0",
+        "categories": "Hotel, Conference Centre, Gym, Hiking area, Holiday home, Hostel, Recreation Centre, Sauna, Sports complex, Stadium",
+        "timezone": "Europe/Tallinn"
+      },
+      "user_changes": {
+        "note": {
+          "from": null,
+          "to": "Excellent weightlifting facilities but probably only for training camps. Maybe us one day?"
+        }
+      },
+      "auto_changes": {}
+    },
+    {
+      "place": {
+        "name": "Mem's Weightlifting Club",
+        "added_by": "Sara Strong",
+        "note": "home",
+        "address": "Arch 22 & 25, Mem's Weightlifting Club, 22 Bondway, London SW8 1SQ",
+        "street": "Arch 22 & 25",
+        "city_state_zip": "22 Bondway",
+        "country": "London",
+        "latitude": 51.4832775,
+        "longitude": -0.1252155,
+        "rating": 5,
+        "review_count": 34,
+        "website": "http://www.memsweightlifting.com/",
+        "phone": "07584 628909",
+        "place_id": "ChIJa9HoyTAFdkgRvMAlCmporAo",
+        "categories": "Gym",
+        "timezone": "Europe/London"
+      },
+      "user_changes": {},
+      "auto_changes": {
+        "review_count": {
+          "from": 33,
+          "to": 34
+        }
+      }
+    },
+    {
+      "place": {
+        "name": "Orkney Amateur Weight Lifting Club",
+        "added_by": "Jean-Baptiste Adams",
+        "note": "Excellent refurbed facilities.",
+        "address": "Orkney Amateur Weight Lifting Club, Cairston Rd, Stromness KW16 3JS",
+        "street": "Cairston Rd",
+        "city_state_zip": "Stromness",
+        "country": "KW16 3JS",
+        "latitude": 58.9694496,
+        "longitude": -3.2915408,
+        "rating": null,
+        "review_count": null,
+        "website": "https://www.facebook.com/OrkneyWeightlifting/",
+        "phone": "07740 883034",
+        "place_id": "ChIJb4-_SNX7mkgR0KjrAMKAPjY",
+        "categories": "Sports club",
+        "timezone": "Europe/London"
+      },
+      "user_changes": {
+        "note": {
+          "from": null,
+          "to": "Excellent refurbed facilities."
+        }
+      },
+      "auto_changes": {}
+    },
+    {
+      "place": {
+        "name": "Powerhouse Barbell Club",
+        "added_by": "Jean-Baptiste Adams",
+        "note": "Best gym in HK",
+        "address": "LG/F, Powerhouse Barbell Club, Silver Fortune Plaza, 1 Wellington St, Central, Hong Kong",
+        "street": "LG/F",
+        "city_state_zip": "Silver Fortune Plaza",
+        "country": "1 Wellington St",
+        "latitude": 22.2811152,
+        "longitude": 114.15612569999999,
+        "rating": 5,
+        "review_count": 48,
+        "website": "https://www.powerhousebarbellclub.com/",
+        "phone": "+852 5119 0995",
+        "place_id": "ChIJra8tJmcBBDQRycR-WVBwBM0",
+        "categories": "Gym",
+        "timezone": "Asia/Hong_Kong"
+      },
+      "user_changes": {
+        "note": {
+          "from": null,
+          "to": "Best gym in HK"
+        }
+      },
+      "auto_changes": {}
+    },
+    {
+      "place": {
+        "name": "Qmotion Sport and Fitness Centre",
+        "added_by": "Jean-Baptiste Adams",
+        "note": "Uni gym but open to public.",
+        "address": "Qmotion Sport and Fitness Centre, 15 Bancroft Rd, London E1 4FZ",
+        "street": "15 Bancroft Rd",
+        "city_state_zip": "London",
+        "country": "E1 4FZ",
+        "latitude": 51.5232398,
+        "longitude": -0.0429605,
+        "rating": 4.2,
+        "review_count": 226,
+        "website": "http://www.qmsu.org/qmotion",
+        "phone": "020 7882 8040",
+        "place_id": "ChIJJ2z34SgddkgR7BAlngoKk3w",
+        "categories": "Gym, Badminton court, Basketball court, Fitness centre, Personal trainer, Sports complex, Squash court, Volleyball court",
+        "timezone": "Europe/London"
+      },
+      "user_changes": {
+        "note": {
+          "from": null,
+          "to": "Uni gym but open to public."
+        }
+      },
+      "auto_changes": {}
+    },
+    {
+      "place": {
+        "name": "Singapore Weightlifting Federation",
+        "added_by": "Jean-Baptiste Adams",
+        "note": "Located in the big hall building. Have to find a way in on one of the sides. Very welcoming. Have to bring cash for drop in unless you have a SG number. Not the best shower facilities but they exist.",
+        "address": "3 Bedok North Street 2, Singapore Weightlifting Federation, Singapore 469643",
+        "street": "3 Bedok North Street 2",
+        "city_state_zip": "Singapore 469643",
+        "country": null,
+        "latitude": 1.3265749999999998,
+        "longitude": 103.93779699999999,
+        "rating": 4.8,
+        "review_count": 13,
+        "website": "http://www.swf.org.sg/",
+        "phone": "+65 6747 9330",
+        "place_id": "ChIJVTQyrE8Y2jERLcM3jkMgcj4",
+        "categories": "Gym",
+        "timezone": "Asia/Singapore"
+      },
+      "user_changes": {
+        "note": {
+          "from": null,
+          "to": "Located in the big hall building. Have to find a way in on one of the sides. Very welcoming. Have to bring cash for drop in unless you have a SG number. Not the best shower facilities but they exist."
+        }
+      },
+      "auto_changes": {}
+    },
+    {
+      "place": {
+        "name": "Société Athlétique Montmartroise",
+        "added_by": "Jean-Baptiste Adams",
+        "note": "More of a powerlifting gym nowadays but has strong WL history.",
+        "address": "Société Athlétique Montmartroise, Centre sportif Bertrand Dauvin, 12 Rue René Binet, 75018 Paris, France",
+        "street": "Centre sportif Bertrand Dauvin",
+        "city_state_zip": "12 Rue René Binet",
+        "country": "75018 Paris",
+        "latitude": 48.8994691,
+        "longitude": 2.3423243,
+        "rating": 4.1,
+        "review_count": 41,
+        "website": "https://www.paris-sam.fr/",
+        "phone": "+33 6 37 85 24 74",
+        "place_id": "ChIJ32_aS_Ru5kcRVEJesTwPax0",
+        "categories": "Weightlifting area",
+        "timezone": "Europe/Paris"
+      },
+      "user_changes": {
+        "note": {
+          "from": null,
+          "to": "More of a powerlifting gym nowadays but has strong WL history."
+        }
+      },
+      "auto_changes": {}
+    },
+    {
+      "place": {
+        "name": "South Australian Sports Institute",
+        "added_by": "Jean-Baptiste Adams",
+        "note": "Nice platforms and equipment but would need to negotiate your way in.More of a national training centre.",
+        "address": "South Australian Sports Institute, 145B Railway Terrace, Mile End SA 5031, Australia",
+        "street": "145B Railway Terrace",
+        "city_state_zip": "Mile End SA 5031",
+        "country": "Australia",
+        "latitude": -34.9300243,
+        "longitude": 138.57675509999999,
+        "rating": 4.3,
+        "review_count": 6,
+        "website": "http://www.sasi.sa.gov.au/",
+        "phone": "+61 1300 714 990",
+        "place_id": "ChIJYcv6tLrFsGoRnnjwXqanc8k",
+        "categories": "Sports school",
+        "timezone": "Australia/Adelaide"
+      },
+      "user_changes": {
+        "note": {
+          "from": null,
+          "to": "Nice platforms and equipment but would need to negotiate your way in.More of a national training centre."
+        }
+      },
+      "auto_changes": {}
+    },
+    {
+      "place": {
+        "name": "Sport e Salute - Scuola dello Sport",
+        "added_by": "Jean-Baptiste Adams",
+        "note": "This is where the Italian team trains. Probably only open to native Italians.",
+        "address": "Sport e Salute - Scuola dello Sport, Largo Giulio Onesti, 1, 00197 Roma RM, Italy",
+        "street": "Largo Giulio Onesti, 1",
+        "city_state_zip": "00197 Roma RM",
+        "country": "Italy",
+        "latitude": 41.9371205,
+        "longitude": 12.493407,
+        "rating": 4.8,
+        "review_count": 64,
+        "website": "http://www.sportesalute.eu/",
+        "phone": "+39 06 3272 9162",
+        "place_id": "ChIJC5nREi9hLxMRAJnBrAb-vqE",
+        "categories": "Sports school",
+        "timezone": "Europe/Rome"
+      },
+      "user_changes": {
+        "note": {
+          "from": null,
+          "to": "This is where the Italian team trains. Probably only open to native Italians."
+        }
+      },
+      "auto_changes": {}
+    },
+    {
+      "place": {
+        "name": "The Arena Gym",
+        "added_by": "Jean-Baptiste Adams",
+        "note": null,
+        "address": "The Arena Gym, Godfrey Pl, Tralee, Co. Kerry, V92 Y240, Ireland",
+        "street": "Godfrey Pl",
+        "city_state_zip": "Tralee",
+        "country": "Co. Kerry",
+        "latitude": 52.2676884,
+        "longitude": -9.7089921,
+        "rating": 4.8,
+        "review_count": 100,
+        "website": "https://linktr.ee/the.arena.gym",
+        "phone": "+353 66 719 4414",
+        "place_id": "ChIJw4KnZV01RUgRQVlh94Wa6yo",
+        "categories": "Gym, Fitness centre, Personal trainer",
+        "timezone": "Europe/Dublin"
+      },
+      "user_changes": {},
+      "auto_changes": {
+        "review_count": {
+          "from": 98,
+          "to": 100
+        }
+      }
+    },
+    {
+      "place": {
+        "name": "Tidal Weightlifting",
+        "added_by": "Jean-Baptiste Adams",
+        "note": "2nd best gym in HK",
+        "address": "Tidal Weightlifting, 7 Glenealy, Central, Hong Kong",
+        "street": "7 Glenealy",
+        "city_state_zip": "Central",
+        "country": "Hong Kong",
+        "latitude": 22.2794317,
+        "longitude": 114.1548782,
+        "rating": 4.7,
+        "review_count": 30,
+        "website": "https://www.tidal-weightlifting.com/",
+        "phone": "+852 6795 9922",
+        "place_id": "ChIJjWetaU0BBDQRiW6aE1ubZqg",
+        "categories": "Gym, Fitness centre, Weightlifting area",
+        "timezone": "Asia/Hong_Kong"
+      },
+      "user_changes": {
+        "note": {
+          "from": null,
+          "to": "2nd best gym in HK"
+        }
+      },
+      "auto_changes": {}
+    },
+    {
+      "place": {
+        "name": "Weightlifting Academy of Tasmania",
+        "added_by": "Jean-Baptiste Adams",
+        "note": "Not what it once was but very nice facilities.",
+        "address": "Weightlifting Academy of Tasmania, 110 Mornington Rd, Mornington TAS 7018, Australia",
+        "street": "110 Mornington Rd",
+        "city_state_zip": "Mornington TAS 7018",
+        "country": "Australia",
+        "latitude": -42.861427899999995,
+        "longitude": 147.4030833,
+        "rating": 5,
+        "review_count": 6,
+        "website": "http://weightliftingacademy.com.au/",
+        "phone": "+61 423 767 955",
+        "place_id": "ChIJWRjL8Zt0bqoRT_9OM6JRIvM",
+        "categories": "Association / Organization, Club",
+        "timezone": "Australia/Hobart"
+      },
+      "user_changes": {
+        "note": {
+          "from": null,
+          "to": "Not what it once was but very nice facilities."
+        }
+      },
+      "auto_changes": {}
+    },
+    {
+      "place": {
+        "name": "Winners 2000 Fitness - Torquay",
+        "added_by": "Jean-Baptiste Adams",
+        "note": null,
+        "address": "Winners 2000 Fitness - Torquay, 168-174 Teignmouth Rd, Torquay TQ1 4RY",
+        "street": "168-174 Teignmouth Rd",
+        "city_state_zip": "Torquay",
+        "country": "TQ1 4RY",
+        "latitude": 50.4820183,
+        "longitude": -3.5360837999999997,
+        "rating": 4.7,
+        "review_count": 188,
+        "website": "https://www.winners2000.co.uk/torquay/",
+        "phone": "01803 327561",
+        "place_id": "ChIJC-cLyrgPbUgRHDSDcL86nS8",
+        "categories": "Gym, Fitness centre",
+        "timezone": "Europe/London"
+      },
+      "user_changes": {},
+      "auto_changes": {
+        "review_count": {
+          "from": 187,
+          "to": 188
+        }
+      }
+    },
+    {
+      "place": {
+        "name": "gymnase des Deux Canons Paul Jouglas",
+        "added_by": "Jean-Baptiste Adams",
+        "note": "Not advertised but there're good training facilities hidden away. Might be able to ask around for access.",
+        "address": "gymnase des Deux Canons Paul Jouglas, 3 Rue du Gymnase, Saint-Denis 97400, Réunion",
+        "street": "3 Rue du Gymnase",
+        "city_state_zip": "Saint-Denis 97400",
+        "country": "Réunion",
+        "latitude": -20.8868014,
+        "longitude": 55.477476599999996,
+        "rating": 3.7,
+        "review_count": 19,
+        "website": null,
+        "phone": null,
+        "place_id": "ChIJozl55HZ_giER1xBSzX-uW6Y",
+        "categories": "Gym",
+        "timezone": "Indian/Reunion"
+      },
+      "user_changes": {
+        "note": {
+          "from": null,
+          "to": "Not advertised but there're good training facilities hidden away. Might be able to ask around for access."
+        }
+      },
+      "auto_changes": {}
+    }
+  ]
+}
