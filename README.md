@@ -4,30 +4,33 @@ Export your Google Maps saved list to CSV or JSON. Google doesn't offer a native
 
 ## How to export your list
 
-### Step 1 — capture the responses
+There are two ways to capture the data. HAR mode is easier.
+
+### Option A — HAR file (recommended)
 
 1. Open **Chrome DevTools** (`Cmd+Option+I`) → **Network** tab → filter by **Fetch/XHR**
 2. Navigate to your Google Maps saved list
-3. **Scroll slowly to the bottom** — each scroll triggers a new paginated request (~20 places each). Scrolling too fast causes requests to be skipped and places to be missing from the export
-4. Sanity check: you should end up with roughly `number of places ÷ 20` response files (e.g. 137 places → 7 files)
-5. For each request: right-click → **Copy** → **Copy response** → paste into a file named `response0.json`, `response1.json`, etc.
-6. Put all the files in a folder named with today's date, e.g. `2026-04-15/`
-
-### Step 2 — capture the additional response (optional but recommended)
-
-There is a separate request that contains contributor names and fuller notes.
-Look for a request with a payload containing `"Weightlifting gyms"` and the list owner's name.
-Save it as `additionalResponse.json` in the same folder.
-
-### Step 3 — run the script
+3. **Scroll slowly to the bottom** — each scroll triggers a paginated request. Scrolling too fast skips requests and loses places
+4. Right-click anywhere in the request list → **Save all as HAR with content**
+5. Put the `.har` file in a folder named with today's date, e.g. `2026-05-05/`
 
 ```bash
-# Without contributor names
-python3 scripts/parse-list-response.py 2026-04-13/response*.json --out 2026-04-13
+python3 scripts/parse-list-response.py --har 2026-05-05/capture.har --out 2026-05-05
+```
 
-# With contributor names + full notes
-python3 scripts/parse-list-response.py 2026-04-13/response*.json \
-    --additional 2026-04-13/additionalResponse.json --out 2026-04-13
+### Option B — manual copy-paste
+
+1. Open **Chrome DevTools** (`Cmd+Option+I`) → **Network** tab → filter by **Fetch/XHR**
+2. Navigate to your Google Maps saved list
+3. **Scroll slowly to the bottom** — each scroll triggers a new paginated request (~20 places each). Scrolling too fast causes requests to be skipped
+4. Sanity check: you should end up with roughly `number of places ÷ 20` response files (e.g. 138 places → 7 files)
+5. For each paginated request: right-click → **Copy** → **Copy response** → paste into `response0.json`, `response1.json`, etc.
+6. Also save the `getlist` request as `additionalResponse.json` (contains contributor names + fuller notes)
+7. Put all files in a folder named with today's date
+
+```bash
+python3 scripts/parse-list-response.py 2026-05-05/response*.json \
+    --additional 2026-05-05/additionalResponse.json --out 2026-05-05
 ```
 
 This produces two files in your output folder:
