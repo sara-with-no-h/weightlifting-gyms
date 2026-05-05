@@ -1,3 +1,7 @@
 node_modules/
 .env
 .DS_Store
+
+# Auth tokens and captures — never commit these
+import-automation/
+scripts/.session.json

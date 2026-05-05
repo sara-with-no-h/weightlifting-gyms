@@ -1,6 +1,6 @@
 # weightlifting-gyms
 
-Export your Google Maps saved list to CSV or JSON. Google doesn't offer a native export, so this script captures the raw API responses from the browser and parses them locally.
+Tools for backing up, diffing, and restoring a Google Maps saved list. Google doesn't offer native export or restore, so these scripts capture and replay the browser's own API requests.
 
 ## How to export your list
 
@@ -82,16 +82,86 @@ This writes into the newer folder:
 
 The diff tracks: places added, places removed, and changes to notes, ratings, website, phone, and address.
 
+## Restoring the list from backup
+
+If the list gets vandalized or accidentally deleted, you can restore all places from a `gyms.json` backup. The script uses the same internal API that Google Maps calls when you manually save a place — no browser automation, just direct HTTP requests.
+
+**Dependency:** `pip install requests`
+
+### How it works
+
+The script replays the exact HTTP request Google Maps sends when you click "Save". It needs three ingredients:
+
+- **Session + auth tokens** — short-lived, extracted from a HAR of one manual save
+- **Cookies** — your Google login session (long-lived, copied from DevTools)
+- **Place ID pairs** — internal numeric IDs Google uses for each place, extracted from your export HAR
+
+### Step 1 — install the dependency
+
+```bash
+pip install requests
+```
+
+### Step 2 — capture fresh tokens
+
+Do this once at the start of each restore session (tokens expire after a few hours):
+
+1. Open Google Maps in your browser → navigate to the target saved list
+2. Open **DevTools** (`Cmd+Option+I`) → **Network** tab → filter by **Fetch/XHR**
+3. **Manually save one place** to the list (click Save → select the list — it can already be in the list)
+4. Find the `createitem` request that appears → right-click it → **Save all as HAR with content**
+   → save as `import-automation/tokens.har`
+5. With the same `createitem` request selected → **Headers** tab → scroll to **Request Headers**
+   → find **Cookie** → copy the entire value
+   → paste into `import-automation/cookies.txt`
+
+> `cookies.txt` and `tokens.har` are in `.gitignore` — never commit them, they're auth credentials.
+
+### Step 3 — run the restore script
+
+```bash
+python3 scripts/restore-list.py 2026-05-05/gyms.json \
+    --from-har import-automation/tokens.har \
+    --cookies import-automation/cookies.txt \
+    --export-har 2026-05-05/2026-05-05.har
+```
+
+| Argument | What it does |
+|---|---|
+| `gyms.json` | The backup to restore from |
+| `--from-har` | HAR from Step 2 — extracts list ID, session token, auth token |
+| `--cookies` | File from Step 2 — your Google login session |
+| `--export-har` | The HAR used to generate that `gyms.json` — provides internal place IDs |
+
+The script prints each place as it's saved and writes progress to `restore_progress.json` after every request.
+
+**Resume after interruption:**
+```bash
+... same command + --resume
+```
+
+**Dry run** (prints what would be sent, no requests):
+```bash
+... same command + --dry-run
+```
+
+### If tokens expire mid-run
+
+The script stops immediately on a 401/403 and tells you. Grab fresh tokens (Step 2 again) and re-run with `--resume` — already-saved places are skipped.
+
 ## Project structure
 
 ```
 scripts/
   parse-list-response.py  ← export a saved list to CSV/JSON
   diff-exports.py         ← diff two exports
+  restore-list.py         ← restore a list from a gyms.json backup
 YYYY-MM-DD/               ← one folder per export session
-  response0.json          ← raw responses from DevTools
-  response1.json
-  ...
-  gyms.csv                ← output
-  gyms.json               ← output
+  YYYY-MM-DD.har          ← HAR file from DevTools (input for parse + restore)
+  gyms.csv                ← parsed output
+  gyms.json               ← parsed output
+  restore_progress.json   ← written by restore-list.py to track progress
+import-automation/
+  tokens.har              ← HAR from one manual save (tokens for restore) — gitignored
+  cookies.txt             ← Google auth cookies (for restore) — gitignored
 ```
